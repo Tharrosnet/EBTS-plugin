@@ -1,0 +1,8 @@
+/* EBTS admin styles */
+.ebts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px;margin-top:12px}
+.ebts-card{background:#fff;border:1px solid #dcdcde;border-radius:8px;padding:16px}
+.ebts-quick-row{background:#f6f7f7}
+.ebts-quick-wrap{padding:12px;border-top:1px solid #ccd0d4}
+.ebts-quick-columns{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.ebts-quick-columns .card{background:#fff;border:1px solid #dcdcde;border-radius:6px;padding:12px}
+.ebts-inline-actions{display:flex;gap:8px;align-items:center}
